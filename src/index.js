@@ -31,7 +31,7 @@ const skills = [
   {
     skill: "Svelte",
     level: "beginner",
-    color: "#FF3B00",
+    color: "#FF1B00",
   },
 ];
 
